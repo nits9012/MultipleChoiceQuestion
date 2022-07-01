@@ -1,3 +1,3 @@
 # MultipleChoiceQuestion using Table View inside Table View
 
-<img src="Multiple_Choice_Questions.png" width="650" height="450">
+<img src="Multiple_Choice_Questions.png" width="450" height="650">
